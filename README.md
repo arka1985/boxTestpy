@@ -74,7 +74,7 @@ plt.show()
 
 ## Functions
 
-### `plot_boxplots(df, group_col, value_col)`
+### `boxplot_side_by_side(df, group_col, value_col)`
 
 * Creates a side-by-side boxplot for a two-level categorical variable.
 * Automatically shows a pastel-colored plot with optional statistical annotation.
